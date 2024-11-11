@@ -1,0 +1,122 @@
+services:
+  postgres:
+    image: postgres:16.4
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init:/docker-entrypoint-initdb.d
+    networks:
+      - airflow_net
+    #Propósito: Define opções de log para evitar o crescimento descontrolado dos logs.
+    #Aqui, configuramos para que cada arquivo de log tenha no máximo 10 MB, com um máximo de 3 arquivos de log. 
+    #Isso evita problemas de espaço em disco.
+    logging:
+      options:
+        max-size: 10m
+        max-file: "3"
+
+  airflow-init:
+    image: apache/airflow:2.10.3
+    depends_on:
+      - postgres
+    environment:
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__WEBSERVER__EXPOSE_CONFIG: 'True'
+    command: ["airflow", "db", "init"]
+    restart: "no"
+    networks:
+      - airflow_net
+
+  airflow-webserver:
+    image: apache/airflow:2.10.3
+    #Propósito: Define o diretório de onde será feito o build da imagem do Docker. 
+    #Isso é útil se você tiver um Dockerfile personalizado dentro da pasta ./airflow.
+    #Quando Usar: Use se você tiver feito alguma modificação ou customização no Dockerfile
+    #e deseja que essa versão personalizada seja utilizada. Caso esteja usando imagens oficiais
+    #diretamente (como apache/airflow), você pode omitir.
+    build:
+      context: ./airflow
+    depends_on:
+      - airflow-init
+    environment:
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+    ports:
+      - "8080:8080"
+    command: ["airflow", "webserver"]
+    #Propósito: Mapeia diretórios locais para serem compartilhados com o container.
+    #Isso permite persistir dados mesmo quando o container é destruído, e também 
+    #facilita a exportação/importação de arquivos.
+    #Nota: No seu caso, o diretório ./export pode ser usado para exportar relatórios
+    #ou arquivos do Airflow, mas também é importante ter volumes para dags, logs e plugins.        
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+      - ./export:/usr/local/airflow/export
+    #Propósito: Define uma rede customizada para comunicação entre containers. 
+    #Isso ajuda a isolar a rede e facilita a comunicação entre os serviços do Docker, como o Airflow e o banco de dados.
+    #Quando Usar: É útil em ambientes de produção ou para isolar redes entre aplicações. 
+    #Adicionar redes customizadas é sempre uma boa prática para manter uma configuração de rede mais controlada.
+    networks:
+      - airflow_net
+    logging:
+      options:
+        max-size: 10m
+        max-file: "3"
+    #Propósito: Define uma verificação periódica para garantir que o serviço está funcionando corretamente.
+    #No exemplo, o Airflow será considerado saudável se o arquivo airflow-webserver.pid existir 
+    #(indicando que o webserver está em execução).
+    #Quando Usar: É recomendável para serviços críticos que precisam de monitoramento. 
+    #Se o healthcheck falhar, o Docker tentará reiniciar o container automaticamente, 
+    #dependendo da política de reinício configurada.
+    healthcheck:
+      test: ["CMD-SHELL", "[ -f /usr/local/airflow/airflow-webserver.pid ]"]
+      interval: 30s
+      timeout: 30s
+      retries: 3
+
+  airflow-scheduler:
+    image: apache/airflow:2.10.3
+    depends_on:
+      - airflow-init
+      - postgres
+    environment:
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+    command: ["airflow", "scheduler"]
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+    networks:
+      - airflow_net
+    logging:
+      options:
+        max-size: 10m
+        max-file: "3"
+
+  streamlit:
+    build:
+      context: ./streamlit
+    environment:
+      - POSTGRES_USER=airflow
+      - POSTGRES_PASSWORD=airflow
+      - POSTGRES_DB=airflow_db
+    volumes:
+      - ./streamlit:/app
+    ports:
+      - "8501:8501"
+    depends_on:
+      - postgres
+    networks:
+      - airflow_net
+    command: ["streamlit", "run", "app/app.py"]
+
+volumes:
+  postgres_data:
+
+networks:
+  airflow_net:
