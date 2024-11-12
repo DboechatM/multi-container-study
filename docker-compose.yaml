@@ -10,6 +10,8 @@ services:
       - ./init:/docker-entrypoint-initdb.d
     networks:
       - airflow_net
+    ports:
+      - "5432:5432"
     #Propósito: Define opções de log para evitar o crescimento descontrolado dos logs.
     #Aqui, configuramos para que cada arquivo de log tenha no máximo 10 MB, com um máximo de 3 arquivos de log. 
     #Isso evita problemas de espaço em disco.
