@@ -6,4 +6,8 @@ RUN apt-get update && apt-get install -y \
     postgresql-client \
     && rm -rf /var/lib/apt/lists/*
 
+#RUN useradd -m airflow
 USER airflow
+WORKDIR /home/airflow
+COPY requirements.txt /home/airflow/requirements.txt
+RUN pip install -r requirements.txt

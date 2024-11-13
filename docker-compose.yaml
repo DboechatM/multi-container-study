@@ -4,7 +4,7 @@ services:
     environment:
       POSTGRES_USER: airflow
       POSTGRES_PASSWORD: airflow
-      POSTGRES_DB: airflow_db
+      POSTGRES_DB: airflow
     volumes:
       - postgres_data:/var/lib/postgresql/data
       - ./init:/docker-entrypoint-initdb.d
@@ -46,6 +46,8 @@ services:
       - airflow-init
     environment:
       AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+      KAGGLE_USERNAME: ${KAGGLE_USERNAME}
+      KAGGLE_KEY: ${KAGGLE_KEY}
     ports:
       - "8080:8080"
     command: ["airflow", "webserver"]
@@ -88,6 +90,8 @@ services:
       - postgres
     environment:
       AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+      KAGGLE_USERNAME: ${KAGGLE_USERNAME}
+      KAGGLE_KEY: ${KAGGLE_KEY}
     command: ["airflow", "scheduler"]
     volumes:
       - ./dags:/opt/airflow/dags

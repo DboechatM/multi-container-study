@@ -13,11 +13,6 @@ RUN pip install requests beautifulsoup4 sqlite3
 # Comando para rodar o script de scraping
 CMD ["python", "scraper.py"]
 
-
-
------
-
-
 # Usa a imagem base do Python 3.11
 FROM python:3.11
 
