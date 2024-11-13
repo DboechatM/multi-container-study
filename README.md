@@ -147,6 +147,11 @@ docker-compose up --build
  ✔ Container multi-container-study-airflow-1     Created         0.1s
 ```
 
+## Acessar Aplicação
+
+`http://localhost:8501/`
+`http://localhost:8080/`
+
  ## Verificar o Status dos Serviços
  ```bash
  docker-compose ps
