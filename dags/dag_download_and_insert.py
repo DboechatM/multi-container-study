@@ -31,8 +31,7 @@ def insert_data_to_postgres():
     df = pd.read_csv(file_path)
 
     # Conecta ao PostgreSQL e insere os dados na tabela
-    pg_hook = PostgresHook(postgres_conn_id='airflow')
-    #pg_hook = PostgresHook(postgres_conn_id='postgres_default')
+    pg_hook = PostgresHook(postgres_conn_id='postgres_default')
     pg_hook.run("CREATE TABLE IF NOT EXISTS wine_reviews (id SERIAL PRIMARY KEY, country TEXT, description TEXT, points INT, price FLOAT, title TEXT, variety TEXT, winery TEXT);")
     
     # Insere os dados linha por linha

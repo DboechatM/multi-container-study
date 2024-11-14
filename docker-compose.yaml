@@ -46,11 +46,23 @@ services:
       - airflow-init
     environment:
       AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+      AIRFLOW__WEBSERVER__RBAC: "True"
+      AIRFLOW__WEBSERVER__AUTH_BACKEND: "airflow.auth.backends.password_auth"
+      AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: 'true'
+      AIRFLOW__CORE__LOAD_EXAMPLES: 'true'
       KAGGLE_USERNAME: ${KAGGLE_USERNAME}
       KAGGLE_KEY: ${KAGGLE_KEY}
+    command: >
+      bash -c "airflow users create 
+      --username admin 
+      --firstname Admin 
+      --lastname User 
+      --role Admin 
+      --email admin@example.com 
+      --password admin && 
+        airflow webserver"
     ports:
       - "8080:8080"
-    command: ["airflow", "webserver"]
     #Propósito: Mapeia diretórios locais para serem compartilhados com o container.
     #Isso permite persistir dados mesmo quando o container é destruído, e também 
     #facilita a exportação/importação de arquivos.
