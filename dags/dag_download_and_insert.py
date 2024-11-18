@@ -32,12 +32,12 @@ def insert_data_to_postgres():
 
     # Conecta ao PostgreSQL e insere os dados na tabela
     pg_hook = PostgresHook(postgres_conn_id='postgres_default')
-    pg_hook.run("CREATE TABLE IF NOT EXISTS wine_reviews (id SERIAL PRIMARY KEY, country TEXT, description TEXT, points INT, price FLOAT, title TEXT, variety TEXT, winery TEXT);")
+    pg_hook.run("CREATE TABLE IF NOT EXISTS wine_reviews (id SERIAL PRIMARY KEY, country TEXT, description TEXT, points INT, price FLOAT, variety TEXT, region TEXT);")
     
     # Insere os dados linha por linha
     for _, row in df.iterrows():
-        pg_hook.run("INSERT INTO wine_reviews (country, description, points, price, title, variety, winery) VALUES (%s, %s, %s, %s, %s, %s, %s);",
-                    parameters=(row['country'], row['description'], row['points'], row['price'], row['title'], row['variety'], row['winery']))
+        pg_hook.run("INSERT INTO wine_reviews (country, description, points, price, variety, region) VALUES (%s, %s, %s, %s, %s, %s);",
+                    parameters=(row['country'], row['description'], row['points'], row['price'], row['variety'], row['region_1']))
 
 with DAG(
     'dag_download_and_insert',
