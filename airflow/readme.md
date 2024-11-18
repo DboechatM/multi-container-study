@@ -70,3 +70,28 @@ Após inicializar o ambiente, a interface web do Airflow estará disponível em:
 http://localhost:8080
 
 Utilize o usuário e senha configurados no docker-compose.yml para acessar.
+
+**6. Configuração da Conexão postgres_default**
+O Airflow utiliza conexões para interagir com bancos de dados e outros sistemas. Neste setup, configuramos a conexão `postgres_default` para o banco de dados PostgreSQL.
+
+Imagem 1: Conexão postgres_default configurada na interface gráfica
+
+<img src="./images/airflow1.png" width="500"/>
+
+Imagem 2: Edite o conn_id `Postgres_default`
+
+<img src="./images/airflow2.png" width="400"/>
+
+Imagem 3: Parâmetros configurados automaticamente no script
+
+Essa conexão é necessária para as tarefas que utilizam o backend do PostgreSQL. 
+
+Connection Id: `postgres_default`
+Conn Type: `Postgres`
+Host: `postgres`
+Schema: `airflow`
+Login: `airflow`
+Password: `airflow`
+Port: `5432`
+
+<img src="./images/airflow3.png" width="600"/>

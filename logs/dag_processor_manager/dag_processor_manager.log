@@ -3599,3 +3599,2121 @@ File Path                                        PID  Runtime      # DAGs    # E
 /opt/airflow/dags/dag_download_and_insert.py                            1           0  0.63s           2024-11-18T14:02:36                      12
 /opt/airflow/dags/dag_transform_export_csv.py    796  0.00s             1           0  0.15s           2024-11-18T14:02:29                      10
 ================================================================================
+[2024-11-18T14:03:30.116+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T14:03:07                      12
+/opt/airflow/dags/dag_transform_export_csv.py    837  0.00s             1           0  0.09s           2024-11-18T14:02:59                      10
+================================================================================
+[2024-11-18T14:04:00.468+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.60s           2024-11-18T14:03:38                      12
+/opt/airflow/dags/dag_transform_export_csv.py    878  0.00s             1           0  0.09s           2024-11-18T14:03:30                      10
+================================================================================
+[2024-11-18T14:04:30.856+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.45s           2024-11-18T14:04:10                      12
+/opt/airflow/dags/dag_transform_export_csv.py    919  0.00s             1           0  0.10s           2024-11-18T14:04:00                      10
+================================================================================
+[2024-11-18T14:05:01.227+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T14:04:40                      12
+/opt/airflow/dags/dag_transform_export_csv.py    960  0.00s             1           0  0.12s           2024-11-18T14:04:30                      10
+================================================================================
+[2024-11-18T14:05:31.620+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.54s           2024-11-18T14:05:11                      12
+/opt/airflow/dags/dag_transform_export_csv.py   1001  0.00s             1           0  0.11s           2024-11-18T14:05:01                      10
+================================================================================
+[2024-11-18T14:06:01.992+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T14:05:43                      12
+/opt/airflow/dags/dag_transform_export_csv.py   1042  0.00s             1           0  0.10s           2024-11-18T14:05:31                      10
+================================================================================
+[2024-11-18T14:06:32.321+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.56s           2024-11-18T14:06:04                      12
+/opt/airflow/dags/dag_transform_export_csv.py   1180  0.00s             1           0  0.11s           2024-11-18T14:06:02                      10
+================================================================================
+[2024-11-18T14:07:02.656+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.65s           2024-11-18T14:06:36                      12
+/opt/airflow/dags/dag_transform_export_csv.py   1279  0.00s             1           0  0.10s           2024-11-18T14:06:32                      10
+================================================================================
+[2024-11-18T14:07:32.987+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T14:07:07                      12
+/opt/airflow/dags/dag_transform_export_csv.py   1320  0.00s             1           0  0.09s           2024-11-18T14:07:02                      10
+================================================================================
+[2024-11-18T14:07:56.300+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T14:07:56.321+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T14:08:03.405+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T14:07:38                      12
+/opt/airflow/dags/dag_transform_export_csv.py   1361  0.00s             1           0  0.10s           2024-11-18T14:07:33                      10
+================================================================================
+[2024-11-18T14:08:33.777+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.61s           2024-11-18T14:08:09                      12
+/opt/airflow/dags/dag_transform_export_csv.py   1402  0.01s             1           0  0.12s           2024-11-18T14:08:03                      10
+================================================================================
+[2024-11-18T14:09:04.102+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.54s           2024-11-18T14:08:50                      12
+/opt/airflow/dags/dag_transform_export_csv.py   1484  0.01s             1           0  0.10s           2024-11-18T14:08:33                      10
+================================================================================
+[2024-11-18T14:09:34.472+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.59s           2024-11-18T14:09:21                      12
+/opt/airflow/dags/dag_transform_export_csv.py   1679  0.01s             1           0  0.12s           2024-11-18T14:09:04                      10
+================================================================================
+[2024-11-18T14:10:04.849+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T14:09:53                      12
+/opt/airflow/dags/dag_transform_export_csv.py   1720  0.00s             1           0  0.14s           2024-11-18T14:09:34                      10
+================================================================================
+[2024-11-18T14:10:35.171+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T14:10:24                      12
+/opt/airflow/dags/dag_transform_export_csv.py   1761  0.00s             1           0  0.09s           2024-11-18T14:10:04                      10
+================================================================================
+[2024-11-18T14:11:05.490+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.59s           2024-11-18T14:10:55                      12
+/opt/airflow/dags/dag_transform_export_csv.py   1802  0.00s             1           0  0.09s           2024-11-18T14:10:35                      10
+================================================================================
+[2024-11-18T14:11:35.848+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.57s           2024-11-18T14:11:27                      12
+/opt/airflow/dags/dag_transform_export_csv.py   1843  0.00s             1           0  0.11s           2024-11-18T14:11:05                      10
+================================================================================
+[2024-11-18T14:12:05.939+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.83s           2024-11-18T14:11:58                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.11s           2024-11-18T14:11:35                      10
+================================================================================
+[2024-11-18T14:12:35.971+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T14:12:29                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.11s           2024-11-18T14:12:06                      10
+================================================================================
+[2024-11-18T14:12:56.755+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T14:12:56.843+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T14:13:06.426+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T14:13:01                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.10s           2024-11-18T14:12:36                      10
+================================================================================
+[2024-11-18T14:13:37.038+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.77s           2024-11-18T14:13:33                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.10s           2024-11-18T14:13:07                      10
+================================================================================
+[2024-11-18T14:14:07.163+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.54s           2024-11-18T14:14:04                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.09s           2024-11-18T14:13:37                      10
+================================================================================
+[2024-11-18T14:14:37.414+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.44s           2024-11-18T14:14:35                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.10s           2024-11-18T14:14:07                      10
+================================================================================
+[2024-11-18T14:15:07.798+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T14:15:06                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.09s           2024-11-18T14:14:38                      10
+================================================================================
+[2024-11-18T14:15:38.142+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T14:15:38                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.09s           2024-11-18T14:15:08                      10
+================================================================================
+[2024-11-18T14:16:09.032+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py    2172  0.01s             1           0  0.46s           2024-11-18T14:15:38                      12
+/opt/airflow/dags/dag_transform_export_csv.py   2173  0.00s             1           0  0.09s           2024-11-18T14:15:38                      10
+================================================================================
+[2024-11-18T14:16:39.413+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T14:16:09                      12
+/opt/airflow/dags/dag_transform_export_csv.py   2213  0.00s             1           0  0.09s           2024-11-18T14:16:09                      10
+================================================================================
+[2024-11-18T14:17:09.770+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T14:16:40                      12
+/opt/airflow/dags/dag_transform_export_csv.py   2254  0.00s             1           0  0.08s           2024-11-18T14:16:39                      10
+================================================================================
+[2024-11-18T14:17:40.142+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T14:17:11                      12
+/opt/airflow/dags/dag_transform_export_csv.py   2295  0.00s             1           0  0.10s           2024-11-18T14:17:09                      10
+================================================================================
+[2024-11-18T14:17:57.377+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T14:17:57.397+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T14:18:10.522+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T14:17:42                      12
+/opt/airflow/dags/dag_transform_export_csv.py   2433  0.00s             1           0  0.11s           2024-11-18T14:17:40                      10
+================================================================================
+[2024-11-18T14:18:40.876+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.58s           2024-11-18T14:18:13                      12
+/opt/airflow/dags/dag_transform_export_csv.py   2532  0.00s             1           0  0.11s           2024-11-18T14:18:10                      10
+================================================================================
+[2024-11-18T14:19:11.199+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.55s           2024-11-18T14:18:44                      12
+/opt/airflow/dags/dag_transform_export_csv.py   2573  0.00s             1           0  0.10s           2024-11-18T14:18:40                      10
+================================================================================
+[2024-11-18T14:19:41.527+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.55s           2024-11-18T14:19:15                      12
+/opt/airflow/dags/dag_transform_export_csv.py   2614  0.01s             1           0  0.10s           2024-11-18T14:19:11                      10
+================================================================================
+[2024-11-18T14:20:11.882+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.52s           2024-11-18T14:19:47                      12
+/opt/airflow/dags/dag_transform_export_csv.py   2655  0.00s             1           0  0.12s           2024-11-18T14:19:41                      10
+================================================================================
+[2024-11-18T14:20:42.225+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.52s           2024-11-18T14:20:18                      12
+/opt/airflow/dags/dag_transform_export_csv.py   2696  0.00s             1           0  0.11s           2024-11-18T14:20:11                      10
+================================================================================
+[2024-11-18T14:21:12.527+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.55s           2024-11-18T14:20:49                      12
+/opt/airflow/dags/dag_transform_export_csv.py   2737  0.00s             1           0  0.11s           2024-11-18T14:20:42                      10
+================================================================================
+[2024-11-18T14:21:42.858+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.60s           2024-11-18T14:21:21                      12
+/opt/airflow/dags/dag_transform_export_csv.py   2778  0.00s             1           0  0.11s           2024-11-18T14:21:12                      10
+================================================================================
+[2024-11-18T14:22:13.136+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.57s           2024-11-18T14:21:52                      12
+/opt/airflow/dags/dag_transform_export_csv.py   2819  0.00s             1           0  0.09s           2024-11-18T14:21:42                      10
+================================================================================
+[2024-11-18T14:22:43.424+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.53s           2024-11-18T14:22:23                      12
+/opt/airflow/dags/dag_transform_export_csv.py   2860  0.00s             1           0  0.10s           2024-11-18T14:22:13                      10
+================================================================================
+[2024-11-18T14:22:57.608+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T14:22:57.627+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T14:23:13.744+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.52s           2024-11-18T14:22:55                      12
+/opt/airflow/dags/dag_transform_export_csv.py   2901  0.00s             1           0  0.10s           2024-11-18T14:22:43                      10
+================================================================================
+[2024-11-18T14:23:44.033+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T14:23:26                      12
+/opt/airflow/dags/dag_transform_export_csv.py   2942  0.00s             1           0  0.09s           2024-11-18T14:23:13                      10
+================================================================================
+[2024-11-18T14:24:14.334+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.56s           2024-11-18T14:23:57                      12
+/opt/airflow/dags/dag_transform_export_csv.py   2983  0.00s             1           0  0.12s           2024-11-18T14:23:44                      10
+================================================================================
+[2024-11-18T14:24:44.608+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T14:24:28                      12
+/opt/airflow/dags/dag_transform_export_csv.py   3024  0.00s             1           0  0.09s           2024-11-18T14:24:14                      10
+================================================================================
+[2024-11-18T14:25:14.914+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T14:25:00                      12
+/opt/airflow/dags/dag_transform_export_csv.py   3065  0.00s             1           0  0.11s           2024-11-18T14:24:44                      10
+================================================================================
+[2024-11-18T14:25:45.254+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T14:25:31                      12
+/opt/airflow/dags/dag_transform_export_csv.py   3106  0.00s             1           0  0.13s           2024-11-18T14:25:15                      10
+================================================================================
+[2024-11-18T14:26:15.544+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.54s           2024-11-18T14:26:02                      12
+/opt/airflow/dags/dag_transform_export_csv.py   3147  0.00s             1           0  0.10s           2024-11-18T14:25:45                      10
+================================================================================
+[2024-11-18T14:26:45.860+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.56s           2024-11-18T14:26:34                      12
+/opt/airflow/dags/dag_transform_export_csv.py   3188  0.00s             1           0  0.10s           2024-11-18T14:26:15                      10
+================================================================================
+[2024-11-18T14:27:16.139+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.54s           2024-11-18T14:27:05                      12
+/opt/airflow/dags/dag_transform_export_csv.py   3229  0.00s             1           0  0.08s           2024-11-18T14:26:45                      10
+================================================================================
+[2024-11-18T14:27:46.435+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T14:27:36                      12
+/opt/airflow/dags/dag_transform_export_csv.py   3270  0.00s             1           0  0.09s           2024-11-18T14:27:16                      10
+================================================================================
+[2024-11-18T14:27:58.515+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T14:27:58.551+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T14:28:16.724+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T14:28:08                      12
+/opt/airflow/dags/dag_transform_export_csv.py   3311  0.00s             1           0  0.09s           2024-11-18T14:27:46                      10
+================================================================================
+[2024-11-18T14:28:47.047+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T14:28:22                      12
+/opt/airflow/dags/dag_transform_export_csv.py   3352  0.00s             1           0  0.10s           2024-11-18T14:28:16                      10
+================================================================================
+[2024-11-18T14:29:17.354+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.52s           2024-11-18T14:28:53                      12
+/opt/airflow/dags/dag_transform_export_csv.py   3393  0.00s             1           0  0.11s           2024-11-18T14:28:47                      10
+================================================================================
+[2024-11-18T14:29:47.652+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T14:29:24                      12
+/opt/airflow/dags/dag_transform_export_csv.py   3434  0.00s             1           0  0.10s           2024-11-18T14:29:17                      10
+================================================================================
+[2024-11-18T14:30:17.940+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T14:29:56                      12
+/opt/airflow/dags/dag_transform_export_csv.py   3475  0.00s             1           0  0.09s           2024-11-18T14:29:47                      10
+================================================================================
+[2024-11-18T14:30:48.249+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.55s           2024-11-18T14:30:27                      12
+/opt/airflow/dags/dag_transform_export_csv.py   3516  0.00s             1           0  0.09s           2024-11-18T14:30:18                      10
+================================================================================
+[2024-11-18T14:31:18.548+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T14:30:58                      12
+/opt/airflow/dags/dag_transform_export_csv.py   3557  0.00s             1           0  0.10s           2024-11-18T14:30:48                      10
+================================================================================
+[2024-11-18T14:31:48.860+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T14:31:30                      12
+/opt/airflow/dags/dag_transform_export_csv.py   3598  0.00s             1           0  0.10s           2024-11-18T14:31:18                      10
+================================================================================
+[2024-11-18T14:32:19.164+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T14:32:01                      12
+/opt/airflow/dags/dag_transform_export_csv.py   3639  0.00s             1           0  0.09s           2024-11-18T14:31:48                      10
+================================================================================
+[2024-11-18T14:32:49.461+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T14:32:32                      12
+/opt/airflow/dags/dag_transform_export_csv.py   3680  0.00s             1           0  0.10s           2024-11-18T14:32:19                      10
+================================================================================
+[2024-11-18T14:32:58.523+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T14:32:58.552+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T14:33:19.681+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            0           1  0.47s           2024-11-18T14:33:12                       3
+/opt/airflow/dags/dag_transform_export_csv.py   3761  0.00s             1           0  0.09s           2024-11-18T14:32:49                      10
+================================================================================
+[2024-11-18T14:33:49.989+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            0           1  0.62s           2024-11-18T14:33:43                       5
+/opt/airflow/dags/dag_transform_export_csv.py   3802  0.00s             1           0  0.10s           2024-11-18T14:33:19                      10
+================================================================================
+[2024-11-18T14:34:20.285+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            0           1  0.51s           2024-11-18T14:34:14                       5
+/opt/airflow/dags/dag_transform_export_csv.py   3843  0.00s             1           0  0.09s           2024-11-18T14:33:50                      10
+================================================================================
+[2024-11-18T14:34:50.577+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            0           1  0.46s           2024-11-18T14:34:45                       5
+/opt/airflow/dags/dag_transform_export_csv.py   3884  0.00s             1           0  0.09s           2024-11-18T14:34:20                      10
+================================================================================
+[2024-11-18T14:35:20.867+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            0           1  0.44s           2024-11-18T14:35:17                       5
+/opt/airflow/dags/dag_transform_export_csv.py   3925  0.00s             1           0  0.11s           2024-11-18T14:34:50                      10
+================================================================================
+[2024-11-18T14:35:51.150+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            0           1  0.44s           2024-11-18T14:35:48                       5
+/opt/airflow/dags/dag_transform_export_csv.py   3966  0.00s             1           0  0.10s           2024-11-18T14:35:20                      10
+================================================================================
+[2024-11-18T14:36:21.449+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            0           1  0.47s           2024-11-18T14:36:19                       5
+/opt/airflow/dags/dag_transform_export_csv.py   4007  0.00s             1           0  0.10s           2024-11-18T14:35:51                      10
+================================================================================
+[2024-11-18T14:36:51.730+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            0           1  0.47s           2024-11-18T14:36:51                       5
+/opt/airflow/dags/dag_transform_export_csv.py   4048  0.00s             1           0  0.09s           2024-11-18T14:36:21                      10
+================================================================================
+[2024-11-18T14:37:21.967+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py    4049  0.02s             0           1  0.47s           2024-11-18T14:36:51                       5
+/opt/airflow/dags/dag_transform_export_csv.py   4050  0.00s             1           0  0.12s           2024-11-18T14:36:51                      10
+================================================================================
+[2024-11-18T14:37:52.323+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            0           1  0.44s           2024-11-18T14:37:22                       5
+/opt/airflow/dags/dag_transform_export_csv.py   4090  0.00s             1           0  0.09s           2024-11-18T14:37:22                      10
+================================================================================
+[2024-11-18T14:37:58.908+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T14:37:58.939+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T14:38:22.680+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            0           1  0.44s           2024-11-18T14:37:52                       5
+/opt/airflow/dags/dag_transform_export_csv.py   4131  0.00s             1           0  0.09s           2024-11-18T14:37:52                      10
+================================================================================
+[2024-11-18T14:38:53.075+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py    4172  0.69s             0           1  0.43s           2024-11-18T14:38:24                       5
+/opt/airflow/dags/dag_transform_export_csv.py   4212  0.00s             1           0  0.09s           2024-11-18T14:38:22                      10
+================================================================================
+[2024-11-18T14:39:23.336+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py    4213  0.02s             1           0  0.70s           2024-11-18T14:38:53                      34
+/opt/airflow/dags/dag_transform_export_csv.py   4214  0.00s             1           0  0.10s           2024-11-18T14:38:53                      10
+================================================================================
+[2024-11-18T14:39:53.710+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T14:39:23                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4254  0.00s             1           0  0.09s           2024-11-18T14:39:23                      10
+================================================================================
+[2024-11-18T14:40:24.172+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T14:39:55                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4295  0.00s             1           0  0.10s           2024-11-18T14:39:53                      10
+================================================================================
+[2024-11-18T14:40:54.614+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T14:40:25                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4336  0.00s             1           0  0.10s           2024-11-18T14:40:24                      10
+================================================================================
+[2024-11-18T14:41:24.971+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T14:40:57                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4377  0.00s             1           0  0.09s           2024-11-18T14:40:54                      10
+================================================================================
+[2024-11-18T14:41:55.337+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T14:41:28                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4418  0.00s             1           0  0.10s           2024-11-18T14:41:25                      10
+================================================================================
+[2024-11-18T14:42:25.754+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T14:41:59                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4459  0.00s             1           0  0.12s           2024-11-18T14:41:55                      10
+================================================================================
+[2024-11-18T14:42:56.162+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T14:42:30                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4500  0.00s             1           0  0.10s           2024-11-18T14:42:25                      10
+================================================================================
+[2024-11-18T14:42:59.184+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T14:42:59.223+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T14:43:26.522+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T14:43:01                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4541  0.00s             1           0  0.09s           2024-11-18T14:42:56                      10
+================================================================================
+[2024-11-18T14:43:56.878+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.59s           2024-11-18T14:43:33                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4582  0.00s             1           0  0.10s           2024-11-18T14:43:26                      10
+================================================================================
+[2024-11-18T14:44:27.302+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T14:44:04                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4623  0.00s             1           0  0.11s           2024-11-18T14:43:56                      10
+================================================================================
+[2024-11-18T14:44:57.676+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T14:44:34                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4664  0.00s             1           0  0.10s           2024-11-18T14:44:27                      10
+================================================================================
+[2024-11-18T14:45:28.047+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T14:45:06                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4705  0.00s             1           0  0.11s           2024-11-18T14:44:57                      10
+================================================================================
+[2024-11-18T14:45:58.446+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T14:45:37                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4746  0.00s             1           0  0.09s           2024-11-18T14:45:28                      10
+================================================================================
+[2024-11-18T14:46:28.884+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T14:46:08                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4787  0.00s             1           0  0.10s           2024-11-18T14:45:58                      10
+================================================================================
+[2024-11-18T14:46:59.251+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.71s           2024-11-18T14:46:39                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4828  0.00s             1           0  0.11s           2024-11-18T14:46:28                      10
+================================================================================
+[2024-11-18T14:47:29.629+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T14:47:10                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4869  0.00s             1           0  0.11s           2024-11-18T14:46:59                      10
+================================================================================
+[2024-11-18T14:47:59.421+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T14:47:59.452+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T14:47:59.998+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.56s           2024-11-18T14:47:42                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4910  0.00s             1           0  0.12s           2024-11-18T14:47:29                      10
+================================================================================
+[2024-11-18T14:48:30.322+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.61s           2024-11-18T14:48:13                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4951  0.00s             1           0  0.10s           2024-11-18T14:48:00                      10
+================================================================================
+[2024-11-18T14:49:00.696+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.55s           2024-11-18T14:48:44                      12
+/opt/airflow/dags/dag_transform_export_csv.py   4992  0.00s             1           0  0.10s           2024-11-18T14:48:30                      10
+================================================================================
+[2024-11-18T14:49:31.085+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T14:49:16                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5033  0.00s             1           0  0.11s           2024-11-18T14:49:00                      10
+================================================================================
+[2024-11-18T14:50:01.439+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T14:49:47                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5074  0.01s             1           0  0.10s           2024-11-18T14:49:31                      10
+================================================================================
+[2024-11-18T14:50:31.834+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T14:50:19                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5115  0.00s             1           0  0.14s           2024-11-18T14:50:01                      10
+================================================================================
+[2024-11-18T14:51:02.185+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T14:50:50                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5156  0.00s             1           0  0.10s           2024-11-18T14:50:31                      10
+================================================================================
+[2024-11-18T14:51:32.519+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T14:51:21                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5197  0.00s             1           0  0.09s           2024-11-18T14:51:02                      10
+================================================================================
+[2024-11-18T14:52:02.901+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T14:51:53                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5238  0.00s             1           0  0.09s           2024-11-18T14:51:32                      10
+================================================================================
+[2024-11-18T14:52:33.241+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.53s           2024-11-18T14:52:24                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5279  0.00s             1           0  0.09s           2024-11-18T14:52:02                      10
+================================================================================
+[2024-11-18T14:52:59.540+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T14:52:59.569+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T14:53:03.627+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T14:52:55                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5320  0.00s             1           0  0.10s           2024-11-18T14:52:33                      10
+================================================================================
+[2024-11-18T14:53:33.954+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T14:53:27                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5361  0.00s             1           0  0.09s           2024-11-18T14:53:03                      10
+================================================================================
+[2024-11-18T14:54:04.287+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T14:53:58                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5402  0.00s             1           0  0.09s           2024-11-18T14:53:34                      10
+================================================================================
+[2024-11-18T14:54:34.692+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T14:54:30                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5443  0.00s             1           0  0.10s           2024-11-18T14:54:04                      10
+================================================================================
+[2024-11-18T14:55:05.098+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T14:55:01                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5484  0.00s             1           0  0.09s           2024-11-18T14:54:34                      10
+================================================================================
+[2024-11-18T14:55:35.397+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T14:55:32                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5525  0.00s             1           0  0.10s           2024-11-18T14:55:05                      10
+================================================================================
+[2024-11-18T14:56:05.694+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T14:56:04                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5566  0.00s             1           0  0.08s           2024-11-18T14:55:35                      10
+================================================================================
+[2024-11-18T14:56:36.047+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T14:56:35                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5607  0.00s             1           0  0.08s           2024-11-18T14:56:05                      10
+================================================================================
+[2024-11-18T14:57:06.358+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py    5608  0.01s             1           0  0.47s           2024-11-18T14:56:35                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5609  0.00s             1           0  0.10s           2024-11-18T14:56:36                      10
+================================================================================
+[2024-11-18T14:57:36.673+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T14:57:06                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5649  0.00s             1           0  0.10s           2024-11-18T14:57:06                      10
+================================================================================
+[2024-11-18T14:57:59.943+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T14:57:59.970+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T14:58:07.049+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T14:57:38                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5690  0.00s             1           0  0.09s           2024-11-18T14:57:36                      10
+================================================================================
+[2024-11-18T14:58:37.441+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T14:58:09                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5731  0.00s             1           0  0.09s           2024-11-18T14:58:07                      10
+================================================================================
+[2024-11-18T14:59:07.835+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T14:58:40                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5772  0.00s             1           0  0.10s           2024-11-18T14:58:37                      10
+================================================================================
+[2024-11-18T14:59:38.196+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.55s           2024-11-18T14:59:11                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5813  0.00s             1           0  0.09s           2024-11-18T14:59:07                      10
+================================================================================
+[2024-11-18T15:00:08.601+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T14:59:42                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5854  0.00s             1           0  0.09s           2024-11-18T14:59:38                      10
+================================================================================
+[2024-11-18T15:00:38.925+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T15:00:14                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5895  0.00s             1           0  0.10s           2024-11-18T15:00:08                      10
+================================================================================
+[2024-11-18T15:01:09.222+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.52s           2024-11-18T15:00:45                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5936  0.00s             1           0  0.09s           2024-11-18T15:00:39                      10
+================================================================================
+[2024-11-18T15:01:39.515+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.54s           2024-11-18T15:01:16                      12
+/opt/airflow/dags/dag_transform_export_csv.py   5977  0.00s             1           0  0.09s           2024-11-18T15:01:09                      10
+================================================================================
+[2024-11-18T15:02:09.795+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T15:01:48                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6018  0.00s             1           0  0.09s           2024-11-18T15:01:39                      10
+================================================================================
+[2024-11-18T15:02:40.078+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T15:02:19                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6059  0.00s             1           0  0.09s           2024-11-18T15:02:09                      10
+================================================================================
+[2024-11-18T15:03:00.305+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T15:03:00.335+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T15:03:10.414+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.54s           2024-11-18T15:02:50                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6100  0.00s             1           0  0.11s           2024-11-18T15:02:40                      10
+================================================================================
+[2024-11-18T15:03:40.700+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.53s           2024-11-18T15:03:22                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6141  0.00s             1           0  0.09s           2024-11-18T15:03:10                      10
+================================================================================
+[2024-11-18T15:04:11.010+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.54s           2024-11-18T15:03:53                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6182  0.00s             1           0  0.11s           2024-11-18T15:03:40                      10
+================================================================================
+[2024-11-18T15:04:41.325+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.54s           2024-11-18T15:04:24                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6223  0.00s             1           0  0.11s           2024-11-18T15:04:11                      10
+================================================================================
+[2024-11-18T15:05:11.628+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.52s           2024-11-18T15:04:55                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6264  0.00s             1           0  0.10s           2024-11-18T15:04:41                      10
+================================================================================
+[2024-11-18T15:05:41.931+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T15:05:27                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6305  0.00s             1           0  0.10s           2024-11-18T15:05:11                      10
+================================================================================
+[2024-11-18T15:06:12.250+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T15:05:58                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6346  0.00s             1           0  0.10s           2024-11-18T15:05:42                      10
+================================================================================
+[2024-11-18T15:06:42.596+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.59s           2024-11-18T15:06:29                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6387  0.00s             1           0  0.12s           2024-11-18T15:06:12                      10
+================================================================================
+[2024-11-18T15:07:12.912+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.53s           2024-11-18T15:07:01                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6428  0.00s             1           0  0.11s           2024-11-18T15:06:42                      10
+================================================================================
+[2024-11-18T15:07:43.201+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T15:07:32                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6469  0.00s             1           0  0.09s           2024-11-18T15:07:13                      10
+================================================================================
+[2024-11-18T15:08:00.331+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T15:08:00.355+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T15:08:13.515+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.54s           2024-11-18T15:08:03                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6510  0.00s             1           0  0.10s           2024-11-18T15:07:43                      10
+================================================================================
+[2024-11-18T15:08:43.822+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.64s           2024-11-18T15:08:35                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6551  0.00s             1           0  0.11s           2024-11-18T15:08:13                      10
+================================================================================
+[2024-11-18T15:09:14.108+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T15:09:06                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6592  0.00s             1           0  0.09s           2024-11-18T15:08:43                      10
+================================================================================
+[2024-11-18T15:09:44.450+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.57s           2024-11-18T15:09:37                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6633  0.00s             1           0  0.11s           2024-11-18T15:09:14                      10
+================================================================================
+[2024-11-18T15:10:14.727+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.55s           2024-11-18T15:10:09                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6674  0.00s             1           0  0.09s           2024-11-18T15:09:44                      10
+================================================================================
+[2024-11-18T15:10:45.047+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T15:10:40                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6715  0.00s             1           0  0.12s           2024-11-18T15:10:14                      10
+================================================================================
+[2024-11-18T15:11:15.374+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.43s           2024-11-18T15:11:11                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6756  0.00s             1           0  0.09s           2024-11-18T15:10:45                      10
+================================================================================
+[2024-11-18T15:11:45.727+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T15:11:43                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6797  0.00s             1           0  0.10s           2024-11-18T15:11:15                      10
+================================================================================
+[2024-11-18T15:12:16.075+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T15:12:14                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6838  0.00s             1           0  0.10s           2024-11-18T15:11:45                      10
+================================================================================
+[2024-11-18T15:12:46.361+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.54s           2024-11-18T15:12:45                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6879  0.00s             1           0  0.09s           2024-11-18T15:12:16                      10
+================================================================================
+[2024-11-18T15:13:00.478+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T15:13:00.511+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T15:13:16.702+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py    6880  0.01s             1           0  0.54s           2024-11-18T15:12:45                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6881  0.00s             1           0  0.09s           2024-11-18T15:12:46                      10
+================================================================================
+[2024-11-18T15:13:47.037+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T15:13:17                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6921  0.00s             1           0  0.09s           2024-11-18T15:13:16                      10
+================================================================================
+[2024-11-18T15:14:17.384+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T15:13:48                      12
+/opt/airflow/dags/dag_transform_export_csv.py   6962  0.00s             1           0  0.10s           2024-11-18T15:13:47                      10
+================================================================================
+[2024-11-18T15:14:47.732+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T15:14:19                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7003  0.00s             1           0  0.10s           2024-11-18T15:14:17                      10
+================================================================================
+[2024-11-18T15:15:18.174+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T15:14:51                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7044  0.00s             1           0  0.10s           2024-11-18T15:14:47                      10
+================================================================================
+[2024-11-18T15:15:48.549+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T15:15:21                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7085  0.00s             1           0  0.09s           2024-11-18T15:15:18                      10
+================================================================================
+[2024-11-18T15:16:18.931+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.52s           2024-11-18T15:15:53                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7126  0.00s             1           0  0.10s           2024-11-18T15:15:48                      10
+================================================================================
+[2024-11-18T15:16:49.300+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.45s           2024-11-18T15:16:24                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7167  0.00s             1           0  0.09s           2024-11-18T15:16:19                      10
+================================================================================
+[2024-11-18T15:17:19.655+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T15:16:55                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7208  0.00s             1           0  0.09s           2024-11-18T15:16:49                      10
+================================================================================
+[2024-11-18T15:17:50.014+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T15:17:27                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7249  0.00s             1           0  0.09s           2024-11-18T15:17:19                      10
+================================================================================
+[2024-11-18T15:18:00.606+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T15:18:00.625+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T15:18:20.367+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T15:17:58                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7290  0.00s             1           0  0.09s           2024-11-18T15:17:50                      10
+================================================================================
+[2024-11-18T15:18:50.711+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T15:18:29                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7331  0.00s             1           0  0.07s           2024-11-18T15:18:20                      10
+================================================================================
+[2024-11-18T15:19:21.167+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T15:19:00                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7372  0.00s             1           0  0.20s           2024-11-18T15:18:50                      10
+================================================================================
+[2024-11-18T15:19:51.516+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T15:19:31                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7413  0.00s             1           0  0.10s           2024-11-18T15:19:21                      10
+================================================================================
+[2024-11-18T15:20:21.844+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.44s           2024-11-18T15:20:03                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7454  0.00s             1           0  0.11s           2024-11-18T15:19:51                      10
+================================================================================
+[2024-11-18T15:20:52.203+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T15:20:34                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7495  0.00s             1           0  0.11s           2024-11-18T15:20:21                      10
+================================================================================
+[2024-11-18T15:21:22.522+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T15:21:05                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7536  0.00s             1           0  0.10s           2024-11-18T15:20:52                      10
+================================================================================
+[2024-11-18T15:21:52.854+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T15:21:37                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7577  0.00s             1           0  0.09s           2024-11-18T15:21:22                      10
+================================================================================
+[2024-11-18T15:22:23.207+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T15:22:08                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7618  0.00s             1           0  0.09s           2024-11-18T15:21:52                      10
+================================================================================
+[2024-11-18T15:22:53.495+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.59s           2024-11-18T15:22:39                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7659  0.00s             1           0  0.09s           2024-11-18T15:22:23                      10
+================================================================================
+[2024-11-18T15:23:00.630+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T15:23:00.656+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T15:23:23.831+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T15:23:11                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7700  0.00s             1           0  0.10s           2024-11-18T15:22:53                      10
+================================================================================
+[2024-11-18T15:23:54.191+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.44s           2024-11-18T15:23:42                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7741  0.00s             1           0  0.09s           2024-11-18T15:23:23                      10
+================================================================================
+[2024-11-18T15:24:24.539+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.43s           2024-11-18T15:24:13                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7782  0.00s             1           0  0.09s           2024-11-18T15:23:54                      10
+================================================================================
+[2024-11-18T15:24:54.999+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T15:24:44                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7823  0.00s             1           0  0.21s           2024-11-18T15:24:24                      10
+================================================================================
+[2024-11-18T15:25:25.378+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.45s           2024-11-18T15:25:15                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7864  0.00s             1           0  0.10s           2024-11-18T15:24:55                      10
+================================================================================
+[2024-11-18T15:25:55.823+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T15:25:46                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7905  0.00s             1           0  0.08s           2024-11-18T15:25:25                      10
+================================================================================
+[2024-11-18T15:26:26.188+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T15:26:17                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7946  0.00s             1           0  0.10s           2024-11-18T15:25:55                      10
+================================================================================
+[2024-11-18T15:26:56.555+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T15:26:48                      12
+/opt/airflow/dags/dag_transform_export_csv.py   7987  0.00s             1           0  0.11s           2024-11-18T15:26:26                      10
+================================================================================
+[2024-11-18T15:27:26.884+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T15:27:20                      12
+/opt/airflow/dags/dag_transform_export_csv.py   8028  0.00s             1           0  0.10s           2024-11-18T15:26:56                      10
+================================================================================
+[2024-11-18T15:27:57.242+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T15:27:51                      12
+/opt/airflow/dags/dag_transform_export_csv.py   8069  0.00s             1           0  0.09s           2024-11-18T15:27:26                      10
+================================================================================
+[2024-11-18T15:28:01.268+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T15:28:01.288+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T15:28:27.561+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T15:28:22                      12
+/opt/airflow/dags/dag_transform_export_csv.py   8110  0.00s             1           0  0.08s           2024-11-18T15:27:57                      10
+================================================================================
+[2024-11-18T15:28:57.938+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T15:28:54                      12
+/opt/airflow/dags/dag_transform_export_csv.py   8151  0.00s             1           0  0.08s           2024-11-18T15:28:27                      10
+================================================================================
+[2024-11-18T15:29:28.257+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T15:29:25                      12
+/opt/airflow/dags/dag_transform_export_csv.py   8192  0.00s             1           0  0.09s           2024-11-18T15:28:58                      10
+================================================================================
+[2024-11-18T15:29:58.586+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T15:29:57                      12
+/opt/airflow/dags/dag_transform_export_csv.py   8233  0.01s             1           0  0.10s           2024-11-18T15:29:28                      10
+================================================================================
+[2024-11-18T15:50:28.197+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T15:50:28.286+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T15:50:35.297+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.92s           2024-11-18T15:50:29                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.12s           2024-11-18T15:50:28                      10
+================================================================================
+[2024-11-18T16:06:33.654+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T16:06:33.680+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T16:06:52.964+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T16:06:34                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.09s           2024-11-18T16:06:33                      10
+================================================================================
+[2024-11-18T16:07:23.918+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.42s           2024-11-18T16:07:04                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.07s           2024-11-18T16:07:04                      10
+================================================================================
+[2024-11-18T16:07:56.983+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.44s           2024-11-18T16:07:37                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.08s           2024-11-18T16:07:37                      10
+================================================================================
+[2024-11-18T16:08:30.052+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.41s           2024-11-18T16:08:10                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.08s           2024-11-18T16:08:09                      10
+================================================================================
+[2024-11-18T16:09:03.213+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T16:08:43                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.21s           2024-11-18T16:08:43                      10
+================================================================================
+[2024-11-18T16:09:35.796+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.65s           2024-11-18T16:09:15                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.11s           2024-11-18T16:09:15                      10
+================================================================================
+[2024-11-18T16:10:07.135+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.60s           2024-11-18T16:09:46                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.12s           2024-11-18T16:09:45                      10
+================================================================================
+[2024-11-18T16:10:37.745+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.64s           2024-11-18T16:10:17                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.11s           2024-11-18T16:10:16                      10
+================================================================================
+[2024-11-18T16:11:08.118+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.52s           2024-11-18T16:10:48                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.11s           2024-11-18T16:10:46                      10
+================================================================================
+[2024-11-18T16:11:33.878+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T16:11:33.909+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T16:11:38.453+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.53s           2024-11-18T16:11:19                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.10s           2024-11-18T16:11:17                      10
+================================================================================
+[2024-11-18T16:12:08.888+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.54s           2024-11-18T16:11:51                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.22s           2024-11-18T16:11:47                      10
+================================================================================
+[2024-11-18T16:12:39.255+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.54s           2024-11-18T16:12:21                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.11s           2024-11-18T16:12:18                      10
+================================================================================
+[2024-11-18T16:13:09.594+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.59s           2024-11-18T16:12:52                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.11s           2024-11-18T16:12:48                      10
+================================================================================
+[2024-11-18T16:13:39.947+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.52s           2024-11-18T16:13:24                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.12s           2024-11-18T16:13:18                      10
+================================================================================
+[2024-11-18T16:14:10.296+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.53s           2024-11-18T16:13:55                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.10s           2024-11-18T16:13:49                      10
+================================================================================
+[2024-11-18T16:14:40.719+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.52s           2024-11-18T16:14:26                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.18s           2024-11-18T16:14:19                      10
+================================================================================
+[2024-11-18T16:15:10.973+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.71s           2024-11-18T16:14:57                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.22s           2024-11-18T16:14:50                      10
+================================================================================
+[2024-11-18T16:15:41.329+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.52s           2024-11-18T16:15:28                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.10s           2024-11-18T16:15:20                      10
+================================================================================
+[2024-11-18T16:16:11.730+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T16:15:59                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.15s           2024-11-18T16:15:50                      10
+================================================================================
+[2024-11-18T16:16:33.993+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T16:16:34.022+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T16:16:42.094+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.55s           2024-11-18T16:16:31                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.11s           2024-11-18T16:16:20                      10
+================================================================================
+[2024-11-18T16:17:12.449+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T16:17:02                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.09s           2024-11-18T16:16:51                      10
+================================================================================
+[2024-11-18T16:17:42.937+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T16:17:33                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.22s           2024-11-18T16:17:21                      10
+================================================================================
+[2024-11-18T16:18:13.267+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T16:18:04                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.10s           2024-11-18T16:17:52                      10
+================================================================================
+[2024-11-18T16:18:43.647+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.55s           2024-11-18T16:18:36                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.12s           2024-11-18T16:18:22                      10
+================================================================================
+[2024-11-18T16:19:14.040+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.60s           2024-11-18T16:19:07                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.11s           2024-11-18T16:18:52                      10
+================================================================================
+[2024-11-18T16:19:44.472+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T16:19:38                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.14s           2024-11-18T16:19:23                      10
+================================================================================
+[2024-11-18T16:20:14.499+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.53s           2024-11-18T16:20:09                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.23s           2024-11-18T16:19:53                      10
+================================================================================
+[2024-11-18T16:20:44.839+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.55s           2024-11-18T16:20:40                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.21s           2024-11-18T16:20:24                      10
+================================================================================
+[2024-11-18T16:21:14.892+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T16:21:11                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.10s           2024-11-18T16:20:54                      10
+================================================================================
+[2024-11-18T16:21:34.044+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T16:21:34.075+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T16:21:45.246+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T16:21:42                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.10s           2024-11-18T16:21:25                      10
+================================================================================
+[2024-11-18T16:22:15.691+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T16:22:14                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.11s           2024-11-18T16:21:55                      10
+================================================================================
+[2024-11-18T16:22:46.093+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T16:22:45                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.11s           2024-11-18T16:22:25                      10
+================================================================================
+[2024-11-18T16:23:16.099+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.52s           2024-11-18T16:23:16                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.23s           2024-11-18T16:22:56                      10
+================================================================================
+[2024-11-18T16:23:46.826+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                        PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py    9629  0.01s             1           0  0.52s           2024-11-18T16:23:16                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.12s           2024-11-18T16:23:26                      10
+================================================================================
+[2024-11-18T16:24:17.205+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.52s           2024-11-18T16:23:47                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.09s           2024-11-18T16:23:57                      10
+================================================================================
+[2024-11-18T16:24:47.602+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T16:24:18                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.08s           2024-11-18T16:24:27                      10
+================================================================================
+[2024-11-18T16:25:17.895+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T16:24:50                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.09s           2024-11-18T16:24:57                      10
+================================================================================
+[2024-11-18T16:25:48.264+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T16:25:21                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.22s           2024-11-18T16:25:28                      10
+================================================================================
+[2024-11-18T16:26:18.712+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T16:25:51                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.20s           2024-11-18T16:25:58                      10
+================================================================================
+[2024-11-18T16:26:34.124+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T16:26:34.155+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T16:26:49.155+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T16:26:23                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.10s           2024-11-18T16:26:29                      10
+================================================================================
+[2024-11-18T16:27:19.572+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T16:26:53                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.11s           2024-11-18T16:26:59                      10
+================================================================================
+[2024-11-18T16:27:49.954+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T16:27:25                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.10s           2024-11-18T16:27:29                      10
+================================================================================
+[2024-11-18T16:28:20.359+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T16:27:56                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.09s           2024-11-18T16:28:00                      10
+================================================================================
+[2024-11-18T16:28:50.716+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.54s           2024-11-18T16:28:27                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.21s           2024-11-18T16:28:30                      10
+================================================================================
+[2024-11-18T16:29:21.182+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T16:28:58                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.09s           2024-11-18T16:29:01                      10
+================================================================================
+[2024-11-18T16:29:51.516+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.54s           2024-11-18T16:29:29                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.09s           2024-11-18T16:29:31                      10
+================================================================================
+[2024-11-18T16:30:21.866+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T16:30:01                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.09s           2024-11-18T16:30:01                      10
+================================================================================
+[2024-11-18T16:30:52.228+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T16:30:32                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.08s           2024-11-18T16:30:32                      10
+================================================================================
+[2024-11-18T16:31:22.248+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T16:31:03                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.22s           2024-11-18T16:31:02                      10
+================================================================================
+[2024-11-18T16:31:34.593+0000] {manager.py:821} INFO - Searching for files in /opt/airflow/dags
+[2024-11-18T16:31:34.620+0000] {manager.py:824} INFO - There are 2 files in /opt/airflow/dags
+[2024-11-18T16:31:52.267+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T16:31:33                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.19s           2024-11-18T16:31:33                      10
+================================================================================
+[2024-11-18T16:32:22.602+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.49s           2024-11-18T16:32:04                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.10s           2024-11-18T16:32:03                      10
+================================================================================
+[2024-11-18T16:32:52.995+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.47s           2024-11-18T16:32:36                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.09s           2024-11-18T16:32:33                      10
+================================================================================
+[2024-11-18T16:33:23.418+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.46s           2024-11-18T16:33:06                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.09s           2024-11-18T16:33:04                      10
+================================================================================
+[2024-11-18T16:33:53.797+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.48s           2024-11-18T16:33:38                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.09s           2024-11-18T16:33:34                      10
+================================================================================
+[2024-11-18T16:34:23.864+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.54s           2024-11-18T16:34:08                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.21s           2024-11-18T16:34:05                      10
+================================================================================
+[2024-11-18T16:34:54.174+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.51s           2024-11-18T16:34:40                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.20s           2024-11-18T16:34:35                      10
+================================================================================
+[2024-11-18T16:35:24.228+0000] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_download_and_insert.py                            1           0  0.50s           2024-11-18T16:35:10                      12
+/opt/airflow/dags/dag_transform_export_csv.py                           1           0  0.09s           2024-11-18T16:35:06                      10
+================================================================================
